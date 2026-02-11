@@ -1,4 +1,4 @@
-# S&P-500: ## Index of the 500 largest companies by market capitalization in the United States
+# **S&P-500**: Index of the 500 largest companies by market capitalization in the United States
 
 - Daily Return
 - Daily Volatility
